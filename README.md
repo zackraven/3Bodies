@@ -17,7 +17,7 @@ Masses attract each other through the force of gravity.
 Newtons equation shows this force is proportional to the magnitude of the masses (m_1,m_2) and the inverse square of their absolute distance (r):
     $F = G \frac{m_1 m_2}{r^2}$
 Therefore (using F = ma) we can form the equation for the effects of gravity on one body to another at one instance as:
-   $frac{G \cdot m_2}{r^2} = a = \frac{dv}{dt}
+ $$ \frac{G \cdot m_2}{r^2} = a = \frac{dv}{dt} $$
 
 Given initial starting positions and velocities for each mass in a system -  we can use this equation (in its vectorised form) to approximate the paths of each mass over time by summing up forces between pairs at each instant and stepping velocities and positions forward.
 
