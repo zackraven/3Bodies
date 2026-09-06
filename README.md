@@ -1,5 +1,7 @@
 # Three-Body Problem — Numerical Exploration
 
+![Three-body simulation](3BodyCoverPic.png)
+
 This project documents my process of learning the mechanics of the classical three-body problem and some of the related mathematical and computational areas of the problem space.
 
 Once I have gained sufficient understanding of the problem and the computational methods used to find and verify stable systems, I will attempt to conduct my own systematic search for stable and periodic solutions, including investigating whether previously undocumented solutions can be identified.
